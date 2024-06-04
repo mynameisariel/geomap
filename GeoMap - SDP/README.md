@@ -12,7 +12,7 @@ GeoMap is an interactive digital map web app aligned with the IB Geography curri
 
 Installation of the code editor [Visual Studio Code](https://code.visualstudio.com/) is required to access GeoMap.
 
-In its current phase of development, GeoMap can only be hosted locally and accessed through the code itself. As a result, it is advisable to be careful and not modify the existing code. The following steps will allow for the best user experience.
+Unfortunately, in its current phase of development, GeoMap can only be hosted locally and accessed through the code itself. As a result, it is advisable to be careful and not modify the existing code. The following steps will allow for the best user experience.
 
 ### Download
 

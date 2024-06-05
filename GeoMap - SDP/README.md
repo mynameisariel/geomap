@@ -8,7 +8,11 @@ GeoMap is an interactive digital map web app aligned with the IB Geography curri
 - **Legend**: Color-coordinated areas on the map based on subject area (different IB Geography units - Urban Environments, Global Climate, Changing Populations, etc.).
 - **Search/Filter Function**: See case studies from specific subject areas only based on color, after checking off the desired boxes on Legend.
 - **Variety of Statistical Data, Diagrams, Graphs**: Interactive elements in case studies that would help students have a better understanding of geography concepts, terms, and information.
-- **Three Units of Focus**: Prioritized units and study material within the IB Geography syllabus - Core 1 (Changing Populations), Core 2 (Climate Change), Option G (Urban Environments), and Option F (Food and Health).## Installation
+- **Three Units of Focus**: Prioritized units and study material within the IB Geography syllabus - Core 1 (Changing Populations), Core 2 (Climate Change), Option G (Urban Environments), and Option F (Food and Health).
+
+The product demo video can be viewed [here](https://youtu.be/QDQctfU7flc).
+
+## Installation
 
 Installation of the code editor [Visual Studio Code](https://code.visualstudio.com/) is required to access GeoMap.
 

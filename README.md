@@ -30,7 +30,7 @@ Install the code editor [Visual Studio Code](https://code.visualstudio.com/). Pl
 
 Open Visual Studio Code. Navigate to "Extensions".
 
-![Extensions side tab in Visual Studio Code](assets/extensions.jpg)
+![Extensions side tab in Visual Studio Code](Geomap - SDP/assets/extensions.jpg)
 
 Install [**Live Server**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
